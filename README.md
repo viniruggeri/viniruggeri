@@ -31,6 +31,7 @@ Sinta-se à vontade para entrar em contato ou colaborar em projetos!
 
 ### 🚀 Projetos em Andamento
 - **Projeto Acessi**: Sistema de IA para notificar problemas e melhorar a comunicação em linhas de metrô, utilizando modelos como **LLaMA** e **LangChain**.
+- **ViniScore**: Sistema de avaliação de desempenho de jogadores de futebol, utilizando **Python** para gerar métricas detalhadas com base em tempo de jogo e ações positivas.
 
 ### Adicionais
 - **LinkedIn**: [viniruggeri](https://www.linkedin.com/in/viniruggeri)
