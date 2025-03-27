@@ -1,45 +1,44 @@
-# 👋 Olá, sou Vini Ruggeri
+# Vinícius Ruggeri
 
-## Descrição
-Desenvolvedor focado em **Inteligência Artificial** e **Backend**, utilizando principalmente **Python**. Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
+Desenvolvedor Backend | Inteligência Artificial | Análise e Desenvolvimento de Sistemas - FIAP
 
-### About Me
-Sou Vini Ruggeri, um desenvolvedor em formação apaixonado por **Inteligência Artificial** e **Backend**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**, onde me concentro em aprimorar minhas habilidades em **Python** e explorar o potencial de **Machine Learning** e **Deep Learning**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, com foco em **Backend** e **Inteligência Artificial**. Tenho experiência prática com **Java**, **Python**, **FastAPI** e **Spring Boot**, e estou constantemente aprimorando minhas habilidades em **cloud** e **microservices**.
 
-Além do desenvolvimento, sou um amante de **futebol** e **música**, buscando sempre um equilíbrio entre meus interesses pessoais e o crescimento técnico. Estou entusiasmado em aplicar o que aprendo em projetos práticos, como o **Projeto Acessi**, que visa melhorar a comunicação e manutenção nas linhas de metrô utilizando IA.
+## Projetos
 
-Sinta-se à vontade para entrar em contato ou colaborar em projetos!
+### **Acessi**
+Assistente virtual para melhorar a experiência de passageiros no transporte público, oferecendo comunicação personalizada sobre horários, rotas, imprevistos e coleta de feedbacks de usuários.
 
-### Skills
-- **Linguagens de Programação**: 
-  - Python
-  - SQL
+- **Tecnologias**: Java (Spring Boot), Python, Gemma 2B, Oracle
+- **Funcionalidades**:
+  - Comunicação em tempo real sobre o status das linhas de transporte.
+  - Notificações sobre imprevistos e alternativas de rotas.
+  - Coleta de feedbacks e relatórios de desempenho.
 
-- **Bancos de Dados**: 
-  - PostgreSQL
-  - MySQL
-  - Oracle DB
+### **Cinephile Habitat**
+Plataforma de recomendação de filmes, inspirada no **Letterboxd**, com backend em **Java (Spring Boot)** e algoritmos de recomendação em **Python**. A aplicação integra a **TMDb API** para fornecer informações detalhadas sobre filmes.
 
-- **Inteligência Artificial e Machine Learning**: 
-  - Modelos LLaMA
-  - **Frameworks**: LangChain
+- **Tecnologias**: Java (Spring Boot), Python, TMDb API
+- **Funcionalidades**:
+  - Recomendação personalizada de filmes com base em preferências.
+  - Visualização de listas de filmes e interações sociais entre usuários.
 
-- **Outras Habilidades**:
-  - Desenvolvimento Backend
-  - Trabalhando com APIs
-  - Análise de Dados
+### **CatManager**
+Sistema para gerenciar os cuidados com gatos, focado em saúde, alimentação e lembretes personalizados. Desenvolvido com **FastAPI** no backend, utilizando **MySQL** como banco de dados.
 
-### 🚀 Projetos em Andamento
-- **Projeto Acessi**: Sistema de IA para notificar problemas e melhorar a comunicação em linhas de metrô, utilizando modelos como **LLaMA** e **LangChain**.
-- **ViniScore**: Sistema de avaliação de desempenho de jogadores de futebol, utilizando **Python** para gerar métricas detalhadas com base em tempo de jogo e ações positivas.
+- **Tecnologias**: FastAPI, MySQL
+- **Funcionalidades**:
+  - Cadastro e gerenciamento de gatos com histórico de saúde.
+  - Agendamento de alimentação e lembretes de vacinas/consultas.
+  - Notificações via e-mail para lembretes de cuidados.
 
-### Adicionais
-- **LinkedIn**: [viniruggeri](https://www.linkedin.com/in/viniruggeri)
-- **GitHub**: [viniruggeri](https://github.com/viniruggeri)
-- **Interesses**: Sempre buscando aprender sobre novas tecnologias relacionadas a IA e desenvolvimento backend.
+## Tecnologias e Ferramentas
 
-### ⚽ Paixões
-Além de desenvolvimento, sou amante de **futebol** e apaixonado por **música**, sempre buscando equilibrar meus interesses com o aprimoramento técnico.
+- **Backend**: Java, Spring Boot, Python, FastAPI
+- **Banco de Dados**: MySQL, Oracle
+- **Testes**: Pytest, Unittest
+- **Versionamento**: Git, GitHub
 
-### 📚 Sempre Aprendendo
-Focado em aprender mais sobre **Python**, **Machine Learning** e **Deep Learning**.
+## Contato
+
+- **LinkedIn**: [Vinícius Ruggeri](https://www.linkedin.com/in/viniruggeri)
