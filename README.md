@@ -1,36 +1,58 @@
-# Vinícius Ruggeri
+<h1 align="center">Vinícius Ruggeri</h1>
 
-Desenvolvedor Backend | Inteligência Artificial | Análise e Desenvolvimento de Sistemas - FIAP
+<p align="center">
+  Backend Developer • AI Engineer • Problem Solver
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, com foco em **Backend** e **Inteligência Artificial**. Tenho experiência prática com **Java**, **Python**, **FastAPI**.
+---
 
-## Projetos
+### 👨‍💻 Sobre
+- 🎯 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
+- 🧠 Atuação focada em **Inteligência Artificial aplicada**, **Backend escalável** e **Soluções orientadas a dados**.
+- 🚀 Construo produtos utilizando **NLP**, **LLMs**, **Machine Learning**, **Retrieval-Augmented Generation (RAG)** e **Sistemas Inteligentes**.
+- 👾 Apaixonado por modelos, APIs inteligentes e engenharia de dados.
+- 🔥 Busco criar soluções que combinam **robustez, escalabilidade e inteligência real**.
 
-### **Acessi**
-Assistente virtual para melhorar a experiência de passageiros no transporte público, oferecendo comunicação personalizada sobre horários, rotas, imprevistos e coleta de feedbacks de usuários.
+---
 
-- **Tecnologias**: Java, Python, OpenAi, Oracle
-- **Funcionalidades**:
-  - Comunicação em tempo real sobre o status das linhas de transporte.
-  - Notificações sobre imprevistos e alternativas de rotas.
-  - Coleta de feedbacks e relatórios de desempenho.
-  - 
-### **CatManager**
-Sistema para gerenciar os cuidados com gatos, focado em saúde, alimentação e lembretes personalizados. Desenvolvido com **FastAPI** no backend, utilizando **MySQL** como banco de dados.
+### 🛠️ Stack Tech
 
-- **Tecnologias**: FastAPI, MySQL
-- **Funcionalidades**:
-  - Cadastro e gerenciamento de gatos com histórico de saúde.
-  - Agendamento de alimentação e lembretes de vacinas/consultas.
-  - Notificações via e-mail para lembretes de cuidados.
+**Linguagens:**  
+`Python` · `Java` · `SQL`
 
-## Tecnologias e Ferramentas
+**Backend:**  
+`FastAPI` · `Flask` · `Spring Boot` · `REST APIs` · `Clean Architecture`
 
-- **Backend**: Java, Spring Boot, Python, FastAPI
-- **Banco de Dados**: MySQL, Oracle
-- **Testes**: Pytest, Unittest
-- **Versionamento**: Git, GitHub
+**IA/ML:**  
+`Transformers` · `Hugging Face` · `OpenAI API` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `FAISS` · `RAG Pipelines`
 
-## Contato
+**Data & Infra:**  
+`MySQL` · `SQLite` · `Docker` · `Git` · `SQLModel` · `APIs RESTful`  
 
-- **LinkedIn**: [Vinícius Ruggeri](https://www.linkedin.com/in/viniruggeri)
+---
+
+### 🚀 Projetos em Destaque
+- **Cinephile Habitat** – IA para recomendações cinematográficas personalizadas.
+- **F1 Predictor** – Sistema de previsão de resultados de Fórmula 1 usando IA e telemetria.
+- **CatManager** – Plataforma para gestão de dados e saúde de pets.
+- **Acessi | IA Ceci** – Assistente virtual para transporte público, premiada na Global Solution FIAP.
+
+---
+
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniruggeri&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniruggeri&layout=compact&theme=transparent&hide_border=true&hide_title=true" />
+</p>
+
+---
+
+### 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniruggeri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vliraruggeri@gmail.com)
+
+---
+
+### 🏀 Mindset
+> “I’ve failed over and over and over again in my life. And that is why I succeed.”  
+> — Michael Jordan
