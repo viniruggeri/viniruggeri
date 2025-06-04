@@ -24,7 +24,7 @@
 `FastAPI` · `Flask` · `Spring Boot` · `REST APIs` · `Clean Architecture`
 
 **IA/ML:**  
-`Transformers` · `Hugging Face` · `OpenAI API` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `FAISS` · `RAG Pipelines`
+`Transformers` · `Hugging Face` · `OpenAI API` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy` · `FAISS` · `RAG Pipelines` · `LangChain`
 
 **Data & Infra:**  
 `MySQL` · `SQLite` · `Docker` · `Git` · `SQLModel` · `APIs RESTful`  
