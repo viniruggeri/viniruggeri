@@ -35,7 +35,7 @@
 - **Cinephile Habitat** – IA para recomendações cinematográficas personalizadas.
 - **F1 Predictor** – Sistema de previsão de resultados de Fórmula 1 usando IA e telemetria.
 - **CatManager** – Plataforma para gestão de dados e saúde de pets.
-- **Acessi | IA Ceci** – Assistente virtual para transporte público, premiada na Global Solution FIAP.
+- **Acessi | IA Ceci** – Assistente virtual para transporte público.
 
 ---
 
