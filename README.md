@@ -32,10 +32,9 @@
 ---
 
 ### 🚀 Projetos em Destaque
-- **Cinephile Habitat** – IA para recomendações cinematográficas personalizadas.
-- **F1 Predictor** – Sistema de previsão de resultados de Fórmula 1 usando IA e telemetria.
-- **CatManager** – Plataforma para gestão de dados e saúde de pets.
-- **Acessi | IA Ceci** – Assistente virtual para transporte público.
+- **Acessi | IA Ceci** – Assistente virtual para transporte público que utiliza o gpt 4o-mini para geração de textos e websockets para comunicação.
+- **ELO | RNN** - LSTM com attention para prever a quantidade de eventos extremos em SP.
+- **Acessi | EXP. user predict** - Regressão com xgboost para avaliar a experiencia do usario no transporte publico.
 
 ---
 
