@@ -1,7 +1,7 @@
 <h1 align="center">Vinícius Ruggeri</h1>
 
 <p align="center">
-  Backend Developer • AI Engineer • Problem Solver
+  Backend Developer • AI Developer
 </p>
 
 ---
