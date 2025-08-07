@@ -11,8 +11,8 @@
 
 - 💡 Backend & AI developer com foco em soluções escaláveis e inteligentes  
 - 🧠 Hiperfoco em arquitetura, NLP, e IA aplicada à vida real  
-- 📚 Estudando atualmente: `.NET`, `Spring`, `Deep Learning`, `C#`, `R`, `Azure`  
-- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `Docker`, `SQLite`, `Azure`
+- 📚 Estudando atualmente: `.NET`, `Spring`, `Deep Learning`, `C#`, **`R`**, `Azure`  
+- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `Docker`, `SQLite`, `R`, `Azure`
 
 ---
 
@@ -30,9 +30,10 @@
 
   <!-- Linguagens e AI -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
 
