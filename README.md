@@ -10,8 +10,8 @@
 ### 🧠 Sobre mim
 
 - 💡 Backend & AI developer com foco em soluções escaláveis e inteligentes  
-- 🧠 Hiperfoco em arquitetura, NLP, e IA aplicada à vida real  
-- 📚 Estudando atualmente: `.NET`, `Spring`, `Deep Learning`, `C#`, **`R`**, `Azure`  
+- 🧠 Hiperfoco em arquitetura, NLP e IA aplicada à vida real  
+- 📚 Estudando: `Spring`, `Deep Learning`, `C#`, **`R`**, `Azure`  
 - ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `Docker`, `SQLite`, `R`, `Azure`
 
 ---
@@ -26,34 +26,9 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-  <!-- Linguagens e AI -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
-
-  <!-- Infra e DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-
-  <!-- Clouds -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" title="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="GCP"/>
-
-  <!-- GraphQL e HF -->
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" title="GraphQL"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" title="Hugging Face"/>
-
-</div>
+| **Linguagens**                                  | **Frameworks & Bibliotecas**                                                               | **ML & IA**                                                      | **Bancos de Dados**                           | **Cloud & Infra**                                               | **DevOps & Ferramentas**                                 |
+|:-----------------------------------------------:|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" title="R"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" title="C#"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title=".NET"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" title="Spring Boot"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch"/> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="30" title="Hugging Face"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" title="SQLite"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30" title="Azure"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" title="GCP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> |
 
 ---
 
@@ -70,10 +45,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/viniruggeri" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://medium.com/@viniruggeri" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
 </p>
 
