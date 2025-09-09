@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim
 
-- 💡 Backend & AI developer com foco em soluções escaláveis e inteligentes  
+- 💡 Data & AI developer com foco em soluções escaláveis e inteligentes  
 - 🧠 Hiperfoco em arquitetura, NLP e IA aplicada à vida real  
 - 📚 Estudando: `Spring`, `Deep Learning`, `C#`, **`R`**, `Azure`  
 - ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `Docker`, `SQLite`, `R`, `Azure`
