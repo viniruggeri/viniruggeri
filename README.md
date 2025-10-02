@@ -14,8 +14,7 @@
 ### 🧠 Sobre mim
 
 - 🤖 **AI Intern at BTG Pactual** — construindo agents inteligentes com LangGraph e IA de ponta  
-- 💡 Especializado em RAG, vector retrieval, arquitetura de agents e NLP aplicado  
-- 🔥 Hiperfoco em IA que resolve problemas reais, não só proof of concepts  
+- 💡 Apaixonado em `RAG`, `vector retrieval`, `arquitetura de agents` e `NLP aplicado` 
 - 📚 Explorando agora: `LangChain`, `LangGraph`, `LangSmith`, `Spring Boot`, `.NET`, `FAISS`, `Vector DBs`  
 - ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `LangChain`, `Docker`, `Azure`
 
