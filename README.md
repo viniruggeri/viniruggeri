@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Ruggeri</h1>
-<h3 align="center">Backend & AI Developer</h3>
+<h3 align="center">AI Engineer & Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniruggeri&label=visitas&color=blue&style=flat-square" alt="visitas" />
@@ -9,10 +9,11 @@
 
 ### 🧠 Sobre mim
 
-- 💡 Data & AI developer com foco em soluções escaláveis e inteligentes  
-- 🧠 Hiperfoco em arquitetura, NLP e IA aplicada à vida real  
-- 📚 Estudando: `Spring`, `Deep Learning`, `C#`, **`R`**, `Azure`  
-- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `Docker`, `SQLite`, `R`, `Azure`
+- 🤖 **AI Intern at BTG Pactual** — construindo agents inteligentes com LangGraph e IA de ponta  
+- 💡 Especializado em RAG, vector retrieval, arquitetura de agents e NLP aplicado  
+- 🔥 Hiperfoco em IA que resolve problemas reais, não só proof of concepts  
+- 📚 Explorando agora: `LangChain`, `LangGraph`, `LangSmith`, `Spring Boot`, `.NET`, `FAISS`, `Vector DBs`  
+- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `LangChain`, `Docker`, `Azure`
 
 ---
 
@@ -26,9 +27,12 @@
 
 ### 🛠️ Tech Stack
 
-| **Linguagens**                                  | **Frameworks & Bibliotecas**                                                               | **ML & IA**                                                      | **Bancos de Dados**                           | **Cloud & Infra**                                               | **DevOps & Ferramentas**                                 |
-|:-----------------------------------------------:|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" title="R"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" title="C#"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title=".NET"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" title="Spring Boot"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch"/> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="30" title="Hugging Face"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" title="SQLite"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30" title="Azure"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" title="GCP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> |
+| **Linguagens**                                  | **AI & ML**                                                               | **Backend & Cloud**                                        |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" title="R"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" title="OpenCV"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30" title="HuggingFace"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" title=".NET"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure"/> |
+
+**AI Stack:** LangChain • LangGraph • LangSmith • RAG • FAISS • Vector Retrieval • Transformers  
+**Databases:** PostgreSQL • SQLite • Vector DBs • Redis
 
 ---
 
