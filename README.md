@@ -12,7 +12,7 @@
 - 🧠 AI Engineer focused on cognitive architectures, autonomous agents and applied reasoning  
 - 🔬 Experience with neuro-symbolic modeling, causal inference pipelines and hybrid cognitive systems  
 - ⚙️ I build end-to-end AI systems: modeling, orchestration, evaluation and deployment  
-- ⚡ Favorite stack: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `LangGraph`, `LangChain`, `Docker`, `Azure`
+- ⚡ Favorite stack: `Python`, `PyTorch`, `Graphs`,`Deep Learning` `FastAPI`, `LangGraph`, `LangChain`, `Docker`, `Azure`
 
 ---
 
