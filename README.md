@@ -1,41 +1,38 @@
 <h1 align="center">Vinicius Ruggeri</h1>
-<h3 align="center">AI Engineer & Backend Developer</h3>
+<h3 align="center">AI Architect & Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniruggeri&label=visitas&color=blue&style=flat-square" alt="visitas" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxsaXd6ZGJqYnV5N3VrbDFqNmk5YjB5aGw5Y3l2ZDg3ZmQ1YnpmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqsXYcdjcBcXL2/giphy.gif" width="500" alt="AI Animation"/>
-</div>
-
 ---
 
 ### 🧠 Sobre mim
 
-- 🤖 **AI Intern at BTG Pactual** — construindo agents inteligentes com LangGraph e IA de ponta  
-- 💡 Apaixonado em `RAG`, `vector retrieval`, `arquitetura de agents` e `NLP aplicado` 
-- 📚 Explorando agora: `LangChain`, `LangGraph`, `LangSmith`, `Spring Boot`, `.NET`, `FAISS`, `Vector DBs`  
-- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `LangChain`, `Docker`, `Azure`
+- 🧩 **AI Intern at BTG Pactual** — desenvolvimento de agentes cognitivos e IA corporativa  
+- 🧠 Trabalho com **arquiteturas cognitivas**, **autonomous agents**, **RAG avançado**, **LLM systems**, **GNNs**, **LSTMs + Attention**  
+- 🔬 Pesquisa aplicada em raciocínio causal, modelos híbridos neuro-simbólicos e pipelines cognitivos  
+- 🛠️ Criação de **sistemas de IA ponta a ponta**, da modelagem à orquestração  
+- ⚡ Stack favorita: `Python`, `PyTorch`, `Transformers`, `FastAPI`, `LangGraph`, `LangChain`, `Docker`, `Azure`
 
 ---
 
 ### 🚀 Projetos em destaque
 
-- [**Ceci | Assistente Virtual GPT-4o-mini**](https://github.com/viniruggeri/ceci_eco) — WebSocket + GPT para IA acessível no transporte público  
-- [**ELO | LSTM + Attention**](https://github.com/viniruggeri/rnn-pred) — Previsão de eventos extremos em SP com LSTM e atenção  
-- [**EXP Predict | XGBoost**](https://github.com/viniruggeri/acessi-experience-predictor) — Regressão XGBoost para avaliar a experiência de usuários
+- **Ceci** — Arquitetura LLM-first com MCP, RAG, guardrails e comportamento cognitivo supervisionado  
+- **MIDAS ACR (Active Cognitive Reasoning)** — Arquitetura neuro-simbólica para inferência contextual e projeção causal em grafos dinâmicos  
+- **ELO (LSTM + Attention)** — Previsão de eventos extremos em SP com LSTM + Attention (1º lugar na Global Solution)
 
 ---
 
 ### 🛠️ Tech Stack
 
-| **Linguagens**                                  | **AI & ML**                                                               | **Backend & Cloud**                                        |
-|:-----------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------------------------------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" title="R"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" title="OpenCV"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30" title="HuggingFace"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="30" title="LangChain"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" title=".NET"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure"/> |
+| **Core Languages** | **AI & ML** | **Infra & Backend** |
+|:------------------:|:-----------:|:-------------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" /> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" /> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="35" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" /> |
 
-**AI Stack:** LangChain 🦜🔗 • LangGraph • LangSmith • RAG • FAISS • Vector Retrieval • Transformers  
-**Databases:** PostgreSQL • SQLite • Vector DBs • Redis
+**AI Core:** Transformers • LangGraph • LangChain • RAG • Vector Retrieval • FAISS • GNNs • LSTMs • Attention  
+**Databases:** PostgreSQL • SQLite • Vector DBs • Redis  
 
 ---
 
@@ -60,11 +57,3 @@
 </p>
 
 📫 **Email**: vliraruggeri@gmail.com
-
----
-
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniruggeri&theme=darkhub&no-bg=true&no-frame=true&margin-w=10" />
-</div>
