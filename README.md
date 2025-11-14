@@ -1,5 +1,5 @@
 <h1 align="center">Vinicius Ruggeri</h1>
-<h3 align="center">AI Engineer & AI Architect</h3>
+<h3 align="center">AI engineer & architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniruggeri&label=visits&color=blue&style=flat-square" alt="visits" />
@@ -12,8 +12,7 @@
 - 🧠 AI Engineer focused on cognitive architectures, autonomous agents and applied reasoning  
 - 🔬 Experience with neuro-symbolic modeling, causal inference pipelines and hybrid cognitive systems  
 - ⚙️ I build end-to-end AI systems: modeling, orchestration, evaluation and deployment  
-- ⚡ Favorite stack: `Python`, `PyTorch`, `Graphs`,
-`DL n ML` `FastAPI`, `LangGraph`, `LangChain`, `Docker`, `Azure`
+- ⚡ Favorite stack: `Python`, `PyTorch`, `Graphs`,`DL ML` `FastAPI`, `LangGraph`, `LangChain`, `Docker`, `Azure`
 
 ---
 
