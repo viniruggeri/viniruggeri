@@ -103,7 +103,7 @@ not as an end in itself.
 ## Tooling (secondary)
 
 Python (primary)  
-C++ • JAX • TRITON 
+C++ • JAX • Triton
 
 PyTorch • PyTorch Geometric  
 Diffusion models • Temporal probabilistic models  
