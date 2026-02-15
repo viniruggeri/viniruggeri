@@ -103,11 +103,12 @@ not as an end in itself.
 ## Tooling (secondary)
 
 Python (primary)  
-C++ • JAX • Triton
+XLA • JAX • Triton (learning)
 
 PyTorch • PyTorch Geometric  
 Diffusion models • Temporal probabilistic models  
 Graph-based representations  
+Transformers
 
 ---
 
