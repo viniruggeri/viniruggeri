@@ -1,129 +1,60 @@
 <h1 align="center">Vinícius Ruggeri</h1>
-<h3 align="center">AI Research Engineer</h3>
+<p align="center">AI Research Engineer · BTG Pactual · São Paulo, Brazil</p>
+<p align="center">
+  <a href="https://linkedin.com/in/viniruggeri">LinkedIn</a> ·
+  <a href="https://arxiv.org/search/?searchtype=author&query=Ruggeri">arXiv</a> ·
+  <a href="mailto:vliraruggeri@gmail.com">Email</a>
+</p>
 
 ---
 
-## Scope
+## Focus
 
-I design and study **research-oriented AI systems** with emphasis on
-**formal reasoning, structured representations and generative processes**.
+Scientific Machine Learning and explainable AI for dynamical systems under uncertainty.
 
-My work investigates how learning-based models can be combined with
-**explicit structure, abstraction and mathematical formulation** to produce
-systems that reason over uncertainty, long horizons and latent failure modes,
-rather than optimizing isolated benchmarks.
+I work at the intersection of research and production — building interpretable models
+that extract governing structure from data, detect regime transitions, and quantify
+uncertainty in ways that are both mathematically grounded and operationally useful.
 
----
-
-## Research focus
-
-My research interests include:
-
-- Neuro-symbolic and cognitive architectures  
-- Structured, graph-based and relational reasoning  
-- Temporal and sequential probabilistic models (LSTM, DMM, NSSM)  
-- Diffusion models and controlled generative dynamics  
-- Uncertainty, robustness and collapse detection  
-- Causal and counterfactual inference  
-
-These topics are explored jointly, not in isolation, as components of
-larger reasoning systems.
+Core axis: **SciML · xAI · dynamical systems · probabilistic inference**
 
 ---
 
-## Research programs
+## Research Projects
 
-### Aphelion
+**[Lexis](github.com/viniruggeri/lexis)** — Regime discovery in dynamical systems  
+BOCPD-based change point detection + SINDy sparse regression for governing equation recovery.
+Pareto-optimal model selection (accuracy vs. complexity). Applied to infrastructure monitoring
+— detected system degradation signals ahead of failure events.
 
-Aphelion is a foundational framework for reasoning over the
-**optionality of futures** in dynamic systems.
+**[HSP — Hidden Survival Paths](github.com/viniruggeri/hsp)** *(in progress)*  
+Probabilistic estimator of local survivability under perturbation in dynamical systems.
+Formalizes basin persistence via phase space geometry + Bayesian uncertainty modeling.
+Targeting 2026 publication.
 
-It formalizes collapse as the irreversible loss of viable trajectories,
-providing a basis for analyzing robustness, persistence and long-horizon
-planning under uncertainty.
+**[MIDAS](github.com/viniruggeri/midas)**  
+Causal inference framework for financial dynamical systems.
+Graph Neural Networks + control-theoretic modeling over dynamic graphs.
+Research-grade architecture. JAX / Equinox backend.
 
----
-
-### Hidden Survival Paths (HSP)
-
-HSP is a formal module within Aphelion.
-
-It models systems as graphs of possible future trajectories and detects
-latent collapse through topological and probabilistic properties of path
-connectivity.
-
-Current work focuses on:
-- formal definitions and properties  
-- algorithmic approximations  
-- integration with temporal probabilistic models  
+**[nova-selachiia](github.com/viniruggeri/nova-selachiia)** — Ecological modeling under uncertainty  
+Neural State Space Models → Deep Markov Models with Monte Carlo sampling.
+Rare event modeling, survival analysis, and counterfactual reasoning.
 
 ---
 
-### MIDAS — Active Cognitive Reasoning
+## Stack
 
-MIDAS is a neuro-symbolic architecture for causal reasoning over dynamic graphs.
-
-It combines structural filtering, temporal modeling and topological inference
-into a unified research-grade system, designed to study reasoning behavior
-rather than solve a single downstream task.
+**Research:** JAX · Equinox · Diffrax · Optax · PyTorch · PyG · SINDy · Neural SDEs  
+**LLM Systems:** LangChain · LangGraph · Agno · LiteLLM · Langfuse · RAG · MCP  
+**Engineering:** Python · R · Docker · Kubernetes · MLflow · ONNX · Neo4j · FAISS  
 
 ---
 
-## Selected applied systems
+## Direction
 
-### nova-image
+Building toward a research-oriented MSc (Europe) with focus on SciML and interpretable
+dynamical systems. Open to collaborations at the boundary of scientific computing,
+probabilistic modeling, and real-world complex systems.
 
-Adaptive diffusion framework with latent self-evaluation, rollback mechanisms
-and trajectory-aware generation, designed to study stability and control in
-generative processes.
-
----
-
-### CECI
-
-LLM-centered cognitive agent integrating retrieval, contextual reasoning and
-explicit safety layers.
-
-Evaluated by an external academic and industry board (NEXT 2025).
-
----
-
-## Technical orientation
-
-My research is supported by **research-grade engineering**, including:
-- low-level optimization when required  
-- custom kernels and autodiff-aware design  
-- deployment-aware evaluation and failure analysis  
-
-Engineering is treated as a means to test and validate research hypotheses,
-not as an end in itself.
-
----
-
-## Tooling (secondary)
-
-Python (primary)  
-XLA • JAX • Triton (learning)
-
-PyTorch • PyTorch Geometric  
-Diffusion models • Temporal probabilistic models  
-Graph-based representations  
-Transformers
-
----
-
-## Academic direction
-
-Current efforts are directed toward publication in **cs.AI**, with emphasis on:
-- precise problem formulation  
-- explicit assumptions and constraints  
-- reproducible, system-level reasoning  
-
-This profile reflects ongoing research and evolving frameworks.
-
----
-
-## Contact
-
-📫 vliraruggeri@gmail.com  
-🔗 https://linkedin.com/in/viniruggeri
+EU Citizen · Open to relocation
