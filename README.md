@@ -43,6 +43,14 @@ Rare event modeling, survival analysis, and counterfactual reasoning.
 
 ---
 
+## Recognition
+
+| | |
+|---|---|
+| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2025&topic=future-of-work" width="80" /> | **1st Place — Global Solution 2024** · Green Energy track |
+| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=challenge&year=2025&company=ccr&ranking=1" width="80" /> | **3rd Place — Next 2025** · CCR challenge |
+---
+
 ## Stack
 
 **Research:** JAX · Equinox · Diffrax · Optax · PyTorch · PyG · SINDy · Neural SDEs  
