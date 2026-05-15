@@ -1,45 +1,58 @@
 <h1 align="center">Vinícius Ruggeri</h1>
-<p align="center">AI Research Engineer · BTG Pactual · São Paulo, Brazil</p>
+
+<p align="center">
+  AI Research Engineer · <a href="https://www.btgpactual.com">BTG Pactual</a> · São Paulo, Brazil
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/viniruggeri">LinkedIn</a> ·
-  <a href="https://arxiv.org/search/?searchtype=author&query=Ruggeri">arXiv</a> ·
   <a href="mailto:vliraruggeri@gmail.com">Email</a>
 </p>
 
 ---
 
-## Focus
+I study how complex systems fail.
 
-Scientific Machine Learning and explainable AI for dynamical systems under uncertainty.
+Most statistical models describe correlations after collapse.
+I care about the geometry before it.
 
-I work at the intersection of research and production — building interpretable models
-that extract governing structure from data, detect regime transitions, and quantify
-uncertainty in ways that are both mathematically grounded and operationally useful.
+My work focuses on dynamical systems under uncertainty:
+phase-space structure, regime transitions, survivability under perturbation,
+and scientific machine learning for systems we cannot fully observe.
 
-Core axis: **SciML · xAI · dynamical systems · probabilistic inference**
+During the day I build production AI systems.
+At night I ask whether their dynamics are even identifiable.
 
 ---
 
-## Research Projects
+## Research
 
-**[Lexis](github.com/viniruggeri/lexis)** — Regime discovery in dynamical systems  
-BOCPD-based change point detection + SINDy sparse regression for governing equation recovery.
-Pareto-optimal model selection (accuracy vs. complexity). Applied to infrastructure monitoring
-— detected system degradation signals ahead of failure events.
+Founder of **NOVA Research Systems** —
+independent research on AI systems under uncertainty.
 
-**[HSP — Hidden Survival Paths](github.com/viniruggeri/hsp)** *(in progress)*  
-Probabilistic estimator of local survivability under perturbation in dynamical systems.
-Formalizes basin persistence via phase space geometry + Bayesian uncertainty modeling.
-Targeting 2026 publication.
+### [HSP — Hidden Survival Paths](https://github.com/viniruggeri/nova-hsp)
+Local survivability estimator for dynamical systems under perturbation.
 
-**[MIDAS](github.com/viniruggeri/midas)**  
-Causal inference framework for financial dynamical systems.
-Graph Neural Networks + control-theoretic modeling over dynamic graphs.
-Research-grade architecture. JAX / Equinox backend.
+Measures how much of the local basin geometry remains accessible under uncertainty.
+Current work explores neural approximations via Continuous Flow Matching and probabilistic latent dynamics.
 
-**[nova-selachiia](github.com/viniruggeri/nova-selachiia)** — Ecological modeling under uncertainty  
-Neural State Space Models → Deep Markov Models with Monte Carlo sampling.
-Rare event modeling, survival analysis, and counterfactual reasoning.
+---
+
+### [Lexis](https://github.com/viniruggeri/lexis)
+Interpretable regime discovery in dynamical systems.
+
+Combines Bayesian online change point detection, sparse regression (SINDy),
+and Pareto-based model selection to identify governing equations across regimes.
+
+Applied to infrastructure monitoring and early degradation detection.
+
+---
+
+### [nova-selachiia](https://github.com/viniruggeri/nova-selachiia)
+Rare-event ecological modeling under uncertainty.
+
+Neural State Space Models and Deep Markov Models for survival analysis,
+distribution shift, and counterfactual ecological dynamics.
 
 ---
 
@@ -47,22 +60,27 @@ Rare event modeling, survival analysis, and counterfactual reasoning.
 
 | | |
 |---|---|
-| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2025&topic=future-of-work" width="80" /> | **1st Place — Global Solution 2024** · Green Energy track |
-| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=challenge&year=2025&company=ccr&ranking=1" width="80" /> | **3rd Place — Next 2025** · CCR challenge |
+| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2025&topic=future-of-work" width="80" /> | **1st Place — Global Solution 2025** · Extreme climate forecasting using LSTM + Attention |
+| <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=challenge&year=2025&company=ccr&ranking=3" width="80" /> | **3rd Place — Next 2025** · Ceci · LLM-first agent architecture |
+
 ---
 
 ## Stack
 
-**Research:** JAX · Equinox · Diffrax · Optax · PyTorch · PyG · SINDy · Neural SDEs  
-**LLM Systems:** LangChain · LangGraph · Agno · LiteLLM · Langfuse · RAG · MCP  
-**Engineering:** Python · R · Docker · Kubernetes · MLflow · ONNX · Neo4j · FAISS  
+### Research
+JAX · Equinox · Diffrax · PyTorch · SINDy · Neural ODEs · Neural SDEs · Flow Matching · Bayesian Inference
+
+### AI Systems
+LangChain · LangGraph · LiteLLM · MCP · RAG · Langfuse · Multi-agent Systems · Agno
+
+### Engineering
+Python · R · Docker · Kubernetes · MLflow · ONNX · Neo4j · FAISS
 
 ---
 
-## Direction
+Interested in research environments working at the intersection of:
+Scientific ML, dynamical systems, probabilistic inference and AI for science.
 
-Building toward a research-oriented MSc (Europe) with focus on SciML and interpretable
-dynamical systems. Open to collaborations at the boundary of scientific computing,
-probabilistic modeling, and real-world complex systems.
+Currently focused on interpretable and uncertainty-aware learning systems.
 
 EU Citizen · Open to relocation
