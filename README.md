@@ -60,7 +60,6 @@ Local survivability estimator for dynamical systems under perturbation.
 
 HSP measures how much of the local basin geometry remains accessible under uncertainty:
 
-```math
 S_t = P\left[\Phi^H(x_t + \varepsilon) \in B(p_{t+H})\right]
 
 Current work explores neural approximations via Continuous Flow Matching, probabilistic latent dynamics, and uncertainty-aware dynamical inference.
