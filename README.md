@@ -60,14 +60,16 @@ Local survivability estimator for dynamical systems under perturbation.
 
 HSP measures how much of the local basin geometry remains accessible under uncertainty:
 
+```math
 S_t = P\left[\Phi^H(x_t + \varepsilon) \in B(p_{t+H})\right]
+```
 
 Current work explores neural approximations via Continuous Flow Matching, probabilistic latent dynamics, and uncertainty-aware dynamical inference.
 
 
 ---
 
-Lexis
+[Lexis](https://github.com/viniruggeri/lexis)
 
 Interpretable regime discovery in dynamical systems.
 
@@ -78,7 +80,7 @@ Applied to infrastructure monitoring and early degradation detection.
 
 ---
 
-nova-selachiia
+[nova-selachiia](https://github.com/viniruggeri/nova-selchiia)
 
 Rare-event ecological modeling under uncertainty.
 
@@ -152,6 +154,7 @@ Recognition
 	
 
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2025&topic=future-of-work" width="80" />	1st Place — Global Solution 2025 · Extreme event forecasting using LSTM + Attention
+
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=challenge&year=2025&company=ccr&ranking=3" width="80" />	3rd Place — Next 2025 · Ceci · LLM-first system with structured guardrails
 
 
